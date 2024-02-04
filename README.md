@@ -4,7 +4,7 @@ This repository contains a C++ implementation designed to solve the problem of i
 
 ## Algorithm
 
-### **1. Increasing Triplet Subsequence Detection**
+### **Increasing Triplet Subsequence Detection**
 
 #### Logic
 
